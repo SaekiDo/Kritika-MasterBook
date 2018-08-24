@@ -1,0 +1,406 @@
+? Intro
+-------
+Hello, I'm Saeki and I run the guild named [Noir] on the [NA] Kritika Online server. I wanted to make a better discriptive help guide for the newer or returning players out there. Since a lot of the information in game is very vauge for most players, and more times than not become confused and uncertain of what specific functions and items allow them to do. So with that I've decided to make a in-depth guide explaining items, features, and functions that are in the game. I took inspiration from the former "Master Book" located in the directory files and decided to update and re-create what already existed in it. Hopefully this will help out some people that have questions about things in game.
+--------
+? Salvage
+--------
+The [Salvage Machine] allows you to discard un-wanted equipment in exchange for useful materials that might help you out with crafting more powerful equipment or items. Items can be sorted into five categories: [Inferior],[Average],[Superior],[Rare],and [Legendary] you can also select the [All] tab to clear everything in your equipment tab. Though do be careful when selecting this since you could delete some potientialy useful equipment! Early on while leveling your character it's better to [Salvage] items you don't need since selling will only give you about 1 gold per sale. Most times, [Salvage Machine(s)] can be found in towns towards the merchants or near the [Danger Zone Highways]. After completing danger zones [Youla] will appear to help you out with grinding down un-wanted equipment or sell things you no longer have a need for. If you have the [King Piglet] pet you can also spawn your own personal salvaging merchant with some extra goodies thrown in. 
+--------------
+? Class Change
+-------------
+When first creating your character you have a an vauge overview of the potential classes that you'll be able to advance into (This prompt will show up again around Lv5~10 to remind you again of the choices). Once you are level 15, an exclimation prompt will appear above your skill bars which will inturn allow you to pick a class to advance into. When you select the class you will be teleported to the class change area (Names of the area differ from classes.) There will most times a class master will show you a brief overview of skills for each class and eventually allow you to pick the class you'd like to pregress forward with. (There aren't any class change reverts to be sure with your choice!) Once set and stone with your decision you'll have a whole new arseneal of skills to choose from. (Your Apperence, Idle poses, Portraits ,and SP gauges (depending on the class.) will also change as well.) You will also receive your [Prime Attribute Stat] at this point too.
+--------------
+Awakening
+--------------
+At Lv50 you'll be able to apply for your First Awakening through [Tuval] in [Opportunity Bay]. He'll give you the basic run down of what it does but, just in case once you complete your awakening you'll have access to three new enhanced [EX]-Styled skills that when activating ([Tab] by default) will put you in [EX-Mode] Giving you an temperory damage buff and access to use these enhanced skills (Eclair exempt she has her own special type of [Tab] Skill.) You also unlock awakening passives to prior skills that will increase their effeicency depending on the amount of points invested into them. 
+
+Also at Lv70 once completing the Windhome Storyline. [Lael] will have a Second Awakening storyline for you to follow. (At the current time of this guide, [Gunmage] does not have an Second Awakening as of yet.) Each class/job will have it's own path of quests it'll have to complete to become awakened. Ranging from collecting items or exchanging materials to obtain something, It'll vary to each class. After you complete all the objectives and advance to your newly found class, You'll have access to 6 new skills (5 actives and 1 passive.) You'll also gain a new portait,idle pose, And prefex [Noble] to go with it! Lastly after everything is said and done, [Lael] will have one last request to give which comes with a unique class title specific to your advancement. 
+--------------
+? Intrusion
+----------
+Starting from the [Fountain Square Danger Zone Highway] up to the [Xanadu Danger Zone Highway] you can trigger [Intrusions] with powerful foes that will inturpt your normal danger zone. These encounters are normally random but, if you gather x10 [Certain Challenge Letter(s)] You can trigger an [Intrusion] to be able to fight these NPCS. These fights will consist of 1~3 Star NPC Bosses that will drop quite handy rewards if you manage to beat them. The higher the star, the more plentiful the loot will be. These loots range from [Epiphiny(s)], [Fix-it Hammer(s)], [Reappraisal Scroll(s)], to even [Kagerfeld Badge(s)]. So keep a look out for the [Intrusion] warnings in your runs! Be warned though some of the fights can be pretty tough so, maybe take a party member or two with to help out with the fight. 
+--------------------
+Danger Zone Highway
+---------
+Danger zones are the main source of gaining EXP and grinding for those precious gears and gold. Most if not all zones will have four difficultys ranging from [Easy],[Normal],[Hard], Or [Extreme/Insane] depending on this choice you will earn a certain amount of EXP, Drops, and Gold. I'll list the rates below as well. Keep in mind Running through these danger zones will consume Rest Points [RP] Which depending on the amount will give you extra rewards during the dungeon Ranging from Monster and Zone clear EXP to Gold and Item drops. You are given a max amount of 300 [RP] 330[RP] for [Elite Status Membership] this can be refilled with various items like [Delicious Berry Pie(s)] or [Large Refreshing Beverage(s)]
+
+[Easy]: Drops+0, Gold Rate x1, EXP x1 
+[Normal]: Drops +1, Gold Rate x1.5, EXP x4
+[Hard]: Drops +2, Gold Rate x2, EXP x6
+[Extreme]: Drops +2, Gold Rate x2.5, EXP x8
+
+While in the Danger Zone Highway menu,There are special tabs ranging from [Ultimate Zones],[Normal Zones],[Action Danger Zones],[Dailies],[Events],[Arena],and [Imprinting]. All of these areas are accessable from the [Danger Zone Highway]. ([Action Zones] and [Ultimate Zones] are only accessable through certain level highways). You can examine the "Best Possible Loot" as well as the basic information about an danger zone by simply clicking the portrait and bringing up an detailed box with more information. This information will include The reccomended Combat Rating [CR], Party Size,and the amount of areas and rest points used. Later on this will help you figure out which zones you'll need to be farming for certain equipment and gear. 
+---------
+Ultimate Zones
+---------------
+Ultimate Zones are the end game Danger Zones of the game. These dungeons withhold extremely useful gear that more times than not, can greatly boost your characters offensive and defensive stats. The [Ultimate Zone(s)] can be accessed through the [Danger Zone Highway] menu. These zones are no walk through the park though, they call for very high Combat Rating [CR] and are usually for the more skilled players. Don't fret though, you can usually pay a higher geared player to help you through the runs. But, if you're not for that you can always team up with friends or guildmembers and try and take them down that way as well. take note that [Ultimate Zone(s)] have a max shared ressurction limit of 5 for the entire party so it's best to do these with a coordinated team if you're planning to do a party run of these zones. 
+
+In our version as of now only has five [Ultimate Zone(s)] I'll list them down below with reccomended Combat Ratings [CR]. Most of these ratings aren't fair representation of the actual difficulty though, Since it'll range from class to class some needing only the recommended while others needing 200~500k+ more Combat rating [CR] to be able to clear the zones.
+
+[Shattered Table]: 200,000 [CR]
+[Titan's Rage]: 200,000 [CR]
+[Skyship Arcadia: Central Deck]: 300,000 [CR]
+[Eeri's Library]: 1,250,000 [CR]
+[[Dusk] Pirates' Den]: 1,850,000 [CR]
+---------------
+Crafting
+---------
+Crafting offers you a plethora of items varying from [Equipment], [Charms], [Power Cores], [Consumeables] ,and [Materials] you may need to further your character progression. You may need specific materials or gold to complete certain crafts. Most of these items will come from [Ultimate Zone(s)] or [Danger Zone(s)]. You may also gain crafting materials from the [Salvage Machine] after salvaging unwanted equipment. These materials could become an essential part of your next crafting project so be sure to store them. You can track the progress of your crafts by clicking the [Memo] box and checking it. This will add the item to your quest tab under [Memo] and allow you to keep track of the items needed left to craft an item.
+---------
+? Guilds
+-------
+Guilds in Kritika offer a great source of support and company when you're tired of playing alone in-game. If you're looking to join or create a guild look no further! By pressing the guild key (Default [U].) It'll bring up the guild menu where you can look for guilds that are recruiting, Or you may also create an guild of your own. Applying to a current guild is relativly easy. While in the guild menu look for a guild you'd like to join and click the [Apply] button. You're able to add a short message to be reviewed for your application as well so, maybe write a nice message to your potential new guildmates. If you are looking to create your own guild it'll cost you 100,000 Gold and require you to be Lv15. After that name your guild and you're ready to go. Add friends, recruit new guild members ,and hopefully create a nice community for yourself. 
+
+While in a guild there are certain ranks to one as well ranging from [Guildleader], [Officer] ,and [Member]. Positions can be changed by the [Guildmaster] depending on how they want to build the guild. [Guildleader(s)] can also give titles to guildmembers up to 8 characters, It makes for a unique experience in guild communities. You can also add personal memos to guildmembers to make a note of whatever the case might be. To do this just click the guildmember you'd like to add a memo to and create your memo and confirm. 
+
+Guild's also provide a [Guild Item Shop] that allows you to buy an assortment of items depending on the guilds level. These items are anything from [Gigaphone(s)], Half-hour potion buffs, 3-Hour potion buffs, and power core support items. Guild points can be obtained by running through [Danger Zones], Helping guild members through [Danger Zones], extending [Guild Skills] and logging in daily.
+
+[Guildleader(s)] can select guild skills they'd like to have benifit their guild members as well. These passive stats aare a nice bonus if you level them up to their full potentials. I'l list the skill information down below.
+
+[Strike as One]: +Attack Power
+[Stand Together]: +Defence
+[Blood Brothers]: +Max HP/SP
+[Bro Code]: +Accuracy/Evasion
+
+If you ever decide to disband your guild, You'll have to kick everyone from the guild first and properly disband the guild. You can also transfer the [Guildleader] role over to another member if you feel it's the right decision as well.
+-------
+? Friends
+--------
+Making friends is a given in any game you play online. By pressing "[" (Default key) you're able to access your friends list where you can check Combat ratings [CR], Combo Scores, and any new Friend requests made to your character. You can also add nicknames to your friends by clicking the "Pen & Paper" icon to add a memo to that friend. Kritika allows you to send Friend Points [FP] to five friends daily. These points can be used in the Gift store to nab some extra items ranging from [Fix-it Hammer(s)] to [Kagerfeld Badge(s)] these are items that'll give that extra little push to your experience. You can also blacklist players for whatever reason this may be you can add players to this list by right clicking the character name or Player and selecting "Block Friend" if you ever decide to change your mind about this you can Right click again and select "Un-blacklist" to undo the action. 
+-----------------------
+Appearence Change
+---------------------
+Don't like your look? No worries! You can pick up an [Apperence Change Voucher] From [NPC Scar], [EMP Shop] ,or simply picking one up from the [Auction House]. This item will allow you to change your character to your liking (All costume items will be hidden during this change.) Once you accept the changes, You won't be able to change it again until you get your hands on a new voucher so be sure of your decisions.
+-------------------
+? Artifacts
+----------
+Artifacts are another type of equipment you can enhance to further boost your character stats. Artifacts can be found in certain dungeons (Ex. Luciana's Pavilion and Invasion Point). These items can be dragged to a hot key to activate a special ability bound to the artifact that usually has a cooldown of 3 minutes depending on the artifact it'll cost a certain amount of Kritium shard. The first artifact you'll most likely have your hands on is called the [Vindon Kugelblitz] It's a very nice starter artifact that boosts your Combat Rating [CR] by a nice chunk, especially so when you enhance and evolve it. Do be careful though, Even though equipment doesn't break on enhancment; artifacts can break past +3 if you fail to enhance up so keep that in mind. [Superior Artifact Crate(s)] can also be obtained by exchanging [Violet Boss Soul(s)] through [Ceurulean] in Starhenge or [Philo] in Windhome. With these crates you can fuse [Superior] grade artifacts up to [Legendary] grade if you don't have the [Artifact Evo Rune(s)] to craft Vindons to fuse and want to use souls instead. There's an whole list of artifacts you can check out by hitting the [Item Combine] icon and looking at the [Combination Results]. Play with them until you find one that works best for you. 
+
+Here's a list of artifacts that I highly recommend aiming for when combining artifacts together. (Keep in mind these are the legendary variants.)
+-Jahulant Assault Shard
+-Jahulant Power Shard
+-Jahulant True Shard <-- (This is the one you want to aim for the most out of them all.) 
+----------
+K-Perks 
+--------------
+K-Perks is a boost-type system Kritika rewards characters for using Rest Points [RP]. Holding your cursor over the "K-Perks" Buff icon will display your current progress into the K-perks buff. This buff can become pretty handy if you're having trouble on certain bosses or areas and need the extra kick of damage to help out. You'll gain damage related tier buffs depending on the amount of RP you've consumed for the day. Note that the buff will only add up if you are doing level appropriate danger zones and will reset daily. (If this is your first character you'll have to level a character to 65 before you'll be able to work towards these buffs.)
+--------
+PvP
+----
+The PvP Arena is a area where players can hone their skills and fight friends or other players (Default key [P]). PvP in Kritika Online currently has four playmodes; Dead or Alive, Team Battle, Capture the Flag, and Avatar War. Each battle type has it's own play style. While fighting (Ranked matches) you can obtain medals that are able to be exchanged for rewards from NPC Scar. While in the PvP lobby you are also allowed to observe other matches (Friendly Matches) There's a section in the room where you can observe only or be next in line to show them what you're made of.
+
+Dead or Alive: A 1v1 rounded battle type where each player fights to score kills. First to set amount wins.
+Team Battle: A 2v2 or 3v3 rounded battle type that turns into a bout the opposite team will fight each other until one falls and replaced with another team member until one is victorious.
+Capture the Flag: A 2v2 or 3v3 style battle-type the requires you to retreive the enemy teams flags (5 points per) and the first to 40 points wins.
+Avatar War: A 2v2 or 3v3 team defence mode. A mode in which each team defends their guardian and the first team to destroy the opposing teams wins.
+---------------------
+? Action Zone
+------------
+[Action Zone(s)] are special zones that you are allowed to completed twice a day (Per character). These danger zones drop rewards from [Etherstone(s)] to [Action Coin(s)] to unique timed titles. While in this zone your Combat Rating [CR] will be calibrated depending on the stats of your character and/or your partner (Max party limit 2 people 2/2). These special zones are accessable through the [Xanadu] and [Windhome Danger Zone Highway(s)]. 
+------------------
+Prime Attribute
+----------------
+Prime attributes are a essential to building your character, You are given an attribute after your Job Change at Lv15, Depending on the class you will be given one of the three attributes (Resolve, Finesse, or Will) But, you tend to forget about it since, you don't obtain gear with attributes until level 70. Keep this detail on the back burner since it'll help you out in the long run. [Attribute Change Stone(s)] allow you to randomly change the Prime attribute of a specific equipment peice) Once you obtain prime attribute equipment be it Weapons, Armor, or Accessories you will start to accumilate "Prime Attribute Points" depending on the enhancement level of the armor or accessory. (Weapons keep the same 49 point no matter the enhancement level.) These points will boost the damage of your character and also start building towards the "Prime Attribute Level" of your character. Prime levels have tiers Lv.1~5 depending on the amount of points (Lv.1 starting at 200.) You unlock special properties for the class once these tiers are hit. Anything from Cooldowns to attack boosts are availible from these. You can also obtain [Prime Attribute Point(s)] from special Emblems or accents as well. These will help you along if you're missing that sliver from hitting your next tier. 
+----------------------
+Power Core
+------------
+[Power Core(s)] are equipment peices that once charged with [Blue Kritium Shard(s)] can be in-turn used to deal extra bits of damage with each attack you do. Starting at Lv.60 Cerulean will introduce you to the [Power Core] mechanic and give you your very first [Power Core III]. Keep in mind that [Power Core(s)] don't last forever, every grade power core has a different charge amount and costs a different amount of [Blue Kritium Shard] to be charged. [Power Core(s)] range from [Superior] to [Legendary] grades and have a variety of different effects among the types. Once the core is depleted of all it's charges it will be unuseable and you can salvage it for [Cracked Power Core(s)] these can be used to craft more powerful [Power Core(s)] or be traded into [Mouri] for [Power Core Box(es)]. 
+------------
+Mailbox
+----------------
+The [Mailbox] function allows for you to receive mail from various places. The [Mailbox] will send you things regarding purchases from the [Auction House], Inventory Overload from danger zone cards, and personal mail from [Events], [Players], ect. First off to open your mailbox press [Default Key] [M] while here you can check your [Inbox] messages or [Compose] a message to send to another user. While in the [Inbox] tab you can [Select All] messages and [Collect] the contents all at once, you can also [Select All] and delete multiple messages at the same time for a mass mailbox sweep. While in the [Compose] tab you can write personal messages to people. By adding a receivers name and the contents you can send away to your hearts content. You can send 10 mail a day so make sure to keep that in mind.
+----------------
+! Imprints
+---------
+The [Imprint] quest can be accepted through [Cerulean] starting at Lv.65. She'll provide you a quest that'll require you to go through the [Imprinting] zone [Kurghon's Lair]. While in these zones your there will be a [Stat Limit] and [Monster HP Scale] depending on the amount of party members with you. After completing this quest you'll have access to the Imprint system which allows you to increase you characters skill potential depending on the type of [Imprint(s)]. [Imprint(s)] range from [Major] to [Inferior] that are able to drop from all the different [Imprint Zone(s)] [Inferior] through [Superior] will add various effects to your skills such as Damage+, Duration+, and Cooldown+. [Major Imprint(s)] on the other hand will add special effects to skills depending on the [Major Imprint] set. Each class has three [Major Imprint] sets that provide various skill effects when equiped. Only one of these sets can be worn at a time and you can mix match to have various effects. Every [Major Imprint] has a specific zone it will drop at. If you hover the imprint you're looking for it will tell you which zone that the [Major Imprint] will drop at.  You're allowed to have nine [Superior] ~ [Inferior] grade [Imprint(s)] equiped. If you're having trouble gaining certain grade [Imprints] you can salavge and craft higher grade [Imprint(s)] for a certain amount of [Imprinting Shard(s)] each grade of imprint has a different amount of shard they will give for being salavaged. 
+----------
+Party Search/Parties
+-------------
+Party searching is quite easy in Kritika (Default key (]) ) In this menu you can sort through [Hub Area(s)] and [Danger Zones] to fine tune which areas you want to apply a party for. You can also create a party this way by clicking the [Create a Party] button at the bottom of the screen. In this menu you can fine tune which Region, Danger Zone, Difficulty, and amount of party members your party is allowed to have. After this your party will show up in the menu allowing other players to join you. You can also edit party options here as well if you've made a mistake like accidtently adding a password ect. You can also check the [Search for parties at your level] box to only find parties that are in your level range as well. 
+-------------
+Identify
+-------
+Identifying items will allow you to unveil an equipments five appraised stats. Unidentifyed items will have an question mark icon over the equipment. The equipment can be Unidentifyed by [Right-Clicking] the equipment or [Alt + Left-Click] to quick identify. identifyed equipment add additional stats to the equipment; These stats are completely random and can range anything from Combat Rating [CR] boosting stats to Survival Rating [SR] boosting stats. You can check these stats by hovering the equipment and holding [Ctrl and scrolling the mouse wheel] The stats given to the equipment part will have values which can be increased by using [Recalculation Scrolls]. The stat itself can also be changed by using [Reappraisal Scrolls] 
+-------
+Unseal
+-------
+Unsealing equipment only applys to equipment lower than Lv.65. You will know to [Unseal] the equipment if it there is an [Lock] icon covering the equipment icon. Un-sealing the desired item will allow you to equip the item you can also [Quick-Unseal by clicking [Alt + Left Click] at the same time. After equipping an item you won't be able to trade the equipment to other players or to other characters so be careful!
+-------------
+? Storage
+--------
+Storing items in Kritika Online can be done by finding NPC [Vangeline] She's the Vault Manager that'll handle your items while you're in the Town Hubs. To store your items; Find [Vangeline] in town and right-click to add items into the storage. You have two types of storage by default, a [Character Vault] and an [Account Vault]. Your [Account Vault] is a vault which is shared through all the characters on your account and is able to transfer items over to certain characters if need be. Your [Character Vault] is only a personal storage to that specific character. Both these vaults can be expanded by using [EMP] Currency, Since by default the [Character Vault] is limited to 16 item slots, While the [Account Vault] is limited to 6 slots
+--------------------
+!! Merchants
+----------
+Merchants in Kritika offer a large amount of support and useful items that will be essential to growing your character even further Starting off in [Deeprock Mine] You'll find some merchants that may be use to you around Lv.17 These merchants mainly being [Tamsi] and [Gilbar]. [Tamsi]; The Elixir Mixer can offer you a range of debuff potions and temperary stat increase potions that will benifit you on your adventures. I'd recommend picking up a few of these while you're here. Moving on to [Gilbar]; The Resistance Quartermaster has a selection of basic rare grade weapons and armor you can pick up these will be useful if you feel you're not dealing enough damage or dying too easily during [Danger Zone(s)]. These can be obtained in exchange for [Boss Soul(s)] these are gained from lower level [Danger Zone] bosses. [Red Boss Soul(s)] will drop from bosses from [Danger Zone(s)] on the [Insane] difficulty. Every town from [Deeprock Mine] to [Xanadu] will have this type of merchant with various basic rare type gear to help out if you aren't finding [Legendary] grade gear in [Danger Zone(s)] [Sten]; The Nervous Merchant will provide you will your basic healing necessities such as [HP Potion(s)], [SP Potion(s)], [Emergency Repair Kit(s)], and also [Energy Pill MK.I ~ VI] incase you retire a [Danger Zone] for some reason and are in weakened state. Jumping to [Xanadu] as you're beginning to reach Lv.65, Mouri will offer you daily purchases in exchange for [Red Boss Soul(s)]. Mouri also will sell you items in exchange for [Unit Insigina(s)] which are obtained from [Luciana's Pavilion] as well as the [Ultimate Zone(s)] [Skyship Arcadia: Central Deck] and [Titan's Rage] the [Ultimate Zone(s)] will provide much more of it than [Luciana's Pavilion] will though. Moving to [Starhenge] Cerulean's shop will provide you with even more items that will boost you even more. Items I'd recommend from her are the [Starhenge Daily Surprize], [Stability Hammers], [Progressive Whetstones], and [Reappraisal Scrolls] these should help you out greatly at 65 to boost your [CR] Combat Rating and [SR] Survival Rating. These items are selective and can be purchased at your leisure depending on the nessessity of certain items. All of these items can be purchased through [Philo] in [Windhome] or any other city you can find him in once you reach 65.
+----------
+Quick Travel // World Map
+-------------
+The [World Map] in Kritika allows you a wide overview of all the areas currently accessable within Kritika Online. By pressing [Default Key] "N" You'll be able to access the [World Map]. You can also access the [World Map] by clicking the small map icon located by your [Mini Map]. While here you can check information about specific areas and [Danger Zone] information regarding (Recommended levels and where certain [Danger Zone(s)] are located.) You can also [Quick Travel] to other areas without having to run through other maps to get there. [Quick Travel] does have a gold fee depending on the range of the areas. You also must be able to access the town first before you are able to [Quick Travel] to the location.
+----
+Mini-Map
+--------
+The [Mini Map] is located in the upper right hand corner of your game display. The [Mini Map] will display a variety of things such as [NPCS], [Town Gates], and [Quest Icons]. If you ever feel the [Mini Map] is too cluttered you can filter out what it shows by clicking the two icons left of the [Mini Map]. These icons will allow you to disable or enable which quest or [NPC] icons appear on your [Mini Map]
+-----------------------
+! Gems
+-----
+[Gems] are socketable items that can be slotted into your equipment peices to give you additional stats. To start off the [Gem Forge] is where you'll be able to unlock gem sockets on your equipment to be able to slot gems into it. Once in the [Gem Forge] menu you'll have a variety of options to choose from one of these options will be [Gem Fusion] this option will allow you to create better and stronger gems by combining existing gems. By choosing two of the same or different type gems of the same tier level you can select a gem to craft that is of the same tier level. This will also cost you a certain amount of [Gem Fusion Coupon(s)] and a gold fee as well. Moving on to [Gemforge] will allow you to take 5 of the same type gem and forge them together to make a higher tier of that gem. These grades of gems will range from [Inferior] to [Legendary]. There are 3 types of gems [Ruby], [Sapphire], and [Topaz] each of these have 7 levels of rarity have certain effects tied to specific types of each gem ranging from Cr boosting to Sr boosting as well as attack type damage. There are special Gem dungeons located in various town regions running through these zones will provide you with Gem Generators, Soul Gem Fusion Coupons, Recalculation Scrolls, and Reappraisal Scrolls. Doing these dungeons daily will help you build your gems fairly quick.
+--------
+Training/Results
+---------
+In Kritika Online theres a [Danger Zone] area where you are able to test Combos, Abilites, and Damage without any restrictions. To access this mode choose the [Resistance Training Grounds] from the [Danger zone] menu to get started with this mode. [Albarik] will give you the basic info about this starting in [Lantir] and will unlock additional [Training grounds] in other regions for you after this. In this mode you can freely reset skill cooldowns and test to your hearts desire by pressing the [F] key to reset the map. You can change the enemy type from anything to small monsters, Elites, or Boss type monsters. This can help you calculate certain damage types on monsters you're planning to fight in the future. The [Results] page can be accessed through the [Esc] key and selecting it in the menu. This page will display the over all damage during [Danger Zone] attempts this can help you better place skills depending on damage and how you'd like to play as well.
+---------
+Event/Attendance Calander
+------------
+The [Event] tab located in the upper left-hand corner of your UI will bring up a menu with an overview of the on-going events currently taking place in-game. While here you can gather information on the events taking place as well as the events duration. While in this menu you can also check up on the [Updates] tab which will redirect you to the Kritika Online webpage. A short notice of the [Events] will filter through on the top of the screen as well. The last tab in this menu is the [Attendance Marathon] tab, If you log in daily through the event period you'll recive a reward for simply logging into the game. By hitting the [Check-In] button a gift will be sent to your delivery tab located in your [Inventory] which will contain some much needed goodies. [Alandra]; The Event Assistant will also be able to help you out by letting you exchange event related items with her for useful prizes.
+------------
+Elite
+---------------
+[Elite] is the membership status availible within [Kritika Online]. Having this will bring you certain perks and benifits as Elite Status Member. As a status holder logging in daily will provide 30 Kred, Skymettle Mantle, Potion of Prosperity (3 Hours), 1-Day Skill Reset, and 30 Costume Dye Points.
+
+Being an [Elite Status] Member you will also gain perks to your account just for simply being a status member.
+
+-Monster XP +0.2%
+-Extra Rest Points [RP] +30
+-Daily Ressurection Stones +5
+-Additional Danger Zone Clear Card +1
+-Unlimited Trading
+-Auction House Fee -50%
+
+Certain giveaways will provide you with free [3-Day Elite Voucher(s)] from time to time. Here's a freebie pack provided through the Kritika Online website that will link to an Free Elite pack to get you started out with. If you're ever looking to extend your elite these are always puchaseable through the Kritika Online website or through the [EMP Store] in-game
+---------------
+? Item Combiner
+--------------------
+! Badges
+-------
+[Kagerfeld Badge(s)] are items that can boost your characters stats significantly depending on the amount and grade of [Kagerfeld Badge] Kagerfeld badges can be obtained through [Daily Dungeon(s)], [Arena], and by [Salvaging] old costumes through [Kagerfeld]. [Kagerfeld Badge(s)] are split into five raritys [Inferior], [Average], [Superior], [Rare] and [Legendary]. You can slot these badges in your costume tab under the section "Badges". Starting from [Inferior] grade you can slot the max amount of 30 badges at a time, As you grade up you'll be able to equip 30 more of the badge depending on the rarity.
+
+[Inferior]: Max: 30 Badges
+[Average]: Max: 60 Badges
+[Superior]: Max: 90 Badges
+[Rare]: Max: 120 Badges
+[Legendary]: Max: 150 Badges
+
+These raritys also have their own set effects depending on the amount of stacks currently equipped, They'll get noticibly stronger as you eventually tier up. Other than equipping [Kagerfeld Badges] the other use of these is through [Kagerfeld] himself he will let you exchange [Kagerfeld Badges] for costumes and [Costume Reset Vouchers] that will be useful if you don't want to obtain them through the [EMP Store]. 
+---------
+Costumes
+---------
+Costumes in Kritika offer more than just good looks. Every costume part has a stat you can bound to the peice giving you extra stats with your costumes. If you aren't happy with the stat decision you chose you can always change it using a [Costume Reset Voucher] this item allows you to change one costumes attribute stat and let you choose a different one. Know that these vouchers cost 15 [Inferior Kagerfeld Badge(s)] each voucher so be careful of the stats you're choosing. If you don't like certain peices of your costume and just want it for the stats it gives you, You can hide equipment parts by ticking the checkbox near the bottom right of the costume icon. this will hide your costume but still allow you to benifit from the stat. The costume stats will only apply if you're wearing it in the "Costume" tab. If you are wearing a costume in your "Cosmetic" section you will still be able to wear the costume but, you won't benifit from any of the stats. This function allows for some neat costume combinations! Costumes can be baught from the [EMP Store], Obtained from Kagerfeld by exchanging [Inferior Kagerfeld Badge(s), They can also be obtained through [Sealed Mysteriouser Boxe(s)]. [Sealed Mysteriouser Box(es)] can be dropped in dungeons or purchased through [Grandking Piglet] to open these you'll need to purchase [Mysterious Key(s)] from the EMP Store. Accents are also a part of your costume tab these special costumes usually come from [Stylish Accent Boxes] which are added on effects, costume weapons or trinkets that will add you extra stats. These will equip to the right of your regular costume slots giving your 4 spaces for regular accents and 1 spot for your weapon accent. if you happen to get [Rare] grade accents these usually will give you a set effect for having the entire set equipped. These are easily obtainable through [Rare Accent Box(es)]. The effects on accents are temperary and can be extended through [Kagerfeld]. Talking with [Kagerfeld] will allow you to access the [Extention] menu which will alow you to extend the effects of any of the accents you'd like to extend. To do this you'll have to sacrifice unwanted accents to extend the time of the accent. depending on the rarity the accent will be extended for longer periods. 
+---------
+! Evolving
+---------
+Evolving is the upgrading mechanic found with-in [Kritika Online]. With this function you can take your equipment's potential even further. To start either find [Basher] or [Gorval] in their respecting towns. You can add an eligible equipment part into the menu and see all of the information here. The menu will display the materials needed to evolve the equipment as well as different evolving paths and the stats of the new evolved item as well. If you want to keep track of the materials needed to evolve an item you can tick the [Memo] box towards the middle of the menu to add it to your [Memo] tab located on your quest log. This way if you don't want to run back through town to check you can just quickly check the [Memo] tab instead.
+-----------------
+! Emblems/Titles
+-------
+[Emblem(s)] and [Title(s)] Are equippable icons and title displays that can further decorate and boost your character. Let's first start out with [Emblem(s)]; [Emblem(s)] are icons that will show infront of your characters name. [Emblem(s)] will give you various stats depending on the rarity of the [Emblem], Anything from [Combat Rating], [Survival Rating], or even [Prime Attribute Stat(s)]. [Emblem(s)] can be hidden or shown by ticking the tab next to the [Emblem] that allows you to do so. These can be obtained in quite a few ways; The simplest way being through [Ultimate Zone(s)] [Titan Rage] and [Skyship Arcadia: Central Deck]. These [Ultimate Zone(s)] drop the [Inferior] grade [Emblem(s)] [Fell Diamond Emblem], [Assault Spade Emblem], and [Quick Club Emblem(s)] respectivly after you've collected these you can use the [Item Combiner] to fuse into higher grade [Emblem(s)] to unlock higher tier [Emblem(s)]. Collecting [Emblem(s)] also has it's benifits equipping these [Emblem(s)] will give you a certain amount of Collection Points [CP] which will start to level up your [Collection Level]. Depending on this level you will gain a certain amount of additional stats, as this level increases the better the stats will become. Moving on to [Title(s)]; [Title(s)] are short words or phrases that will hover above your character name. [Title(s)] can be obtained through [Event(s)] or clearing [Danger Zone(s) with certain specifications. Titles have similar collections like [Emblem(s)] which are usually obtained through the [Main Story] quests while in the [Title] menu you will notice the progression bar of the collections on the left hand side indicated by the [Green] or [Yellow] progress bars. Once these are complete you will unlock all of the set bonus indicated for the set that is shown on the right hand side. Like [Emblem(s)]; [Title(s)] can also have a [Display] and [Stat] title depending on how well you like the [Title(s)].
+-------- 
+Fishing
+--------
+[Fishing] is is a function that allows you to gather fish and exchange them for useful materials and items that will benifit you to furthing your character. This function is great if you're busy or have to go away for a bit since you can leave it to auto fish for you while you're away. To unlock the [Fishing] function, first talk to [Lord Tabbington] he'll supply you with a quest which will unlock the fishing rod tab in your inventory. After you've gotten the hand of [Fishing] [Lord Tabbington] will have a good amount of items you can exchange for the fish you've caught. Noteable items being [Fixit-10 Hammer], [Gold-550,000], [Ressurection Stone(s)], and [Spooky Amethyst Sculpture(s)]. There are different raritys of rods that make fishing time a lot quicker depending on the grade. Getting your hands on a [Dragon Bone Fishing Rod] will make things a whole lot easier with extra bait slots and the fastest reel time. These can be obtained through Events like the [Attendance Calender] or through [Sealed Mysteriouser Box(es)].   
+-------
+! Etherforce
+-----------
+Starting at Lv.60 you will start gaining [EFP] [Etherforce Point(s)] from quests these will be useful when you are introduced to the [Etherforce System] through [Basher]; [Basher] will provide a quest at Lv.60 as well that you can accept through [Keskyu Outpost]. This will give you a breif overview of how [EFP] works. After this you will be able to unlock your first orb at Lv.60 for the cost of 1,000,000 Gold the [Valorous] orb is the basic starter orb that is the easiest to max out. As of this guide there exist two more orbs, the [Eagar] and the [Marital] orbs. Each orb has a specification that it requires to unlock it's accessability which and be anything from clearing specific [Ultimate Zone(s)] to [CR] Combat Rating requirements. 
+
+[Valorous]                               [Eagar]                                     [Marital]
+[Unlock Requirements]                    [Unlock Requirements]                       [Unlock Requirements] 
+-1,000,000 Gold                          -2,000,000 Gold                             -3,000,000 Gold
+                                         -200,000 Combat Rating                      -[Eager] Orb Unlocked.
+                                         -Shattered Table Cleared                    -400,000 Combat Rating.
+                                                                                     -Skyship Arcadia: Central Deck & Titan's Rage Ultimate Zone's Cleared. 
+[Stats]                                  [Stats]                                     [Stats]
+-Defense [MAX:625]                       -Defense [MAX:720]                          -Defense [MAX:500] 
+-Attack Power [MAX:1,040]                -Attack Power [MAX:1,100]                   -Attack Power [MAX:1,200]
+-Accuracy [MAX:320]                      -Bonus Critical Damage to Bosses [MAX:7%]   -Damage Reduction [MAX:2.5%]
+-HP [MAX:1,040]                          -Critical Damage [MAX:10%]                  -Bonus Damage [MAX:5%]
+-In-Town Movement Speed [MAX:5%]         -Bonus Critical Damage to Elites [MAX:8%]   -HP [MAX:1,000]
+
+Each [Etherforce Orb] has five stats that it's given that will boost your [CR] or [SR] respectivily. There is three grades of forging [EFP] into orbs [Inferior], [Average], and [Superior] forges. depending on the forge type you can lose or gain [EFP].
+
+[Inferior]: Results may cause increase or decrease of stats. [100/150 EFP]
+[Average]: Results cause slight increase or no increase at all. [100/150 EFP + 200,000~300,000 Gold]
+[Superior]: Results cause 3~5 point increase to stats. [100/150 EFP + 15x Whetstone IV]
+-----------
+! Enhancing/ Enhancement Transfer
+----------
+[Enhancing] will make any current equipment extrememly more benificial depending on the [Enhancement Level] to start off locate an [Enhancing Anvil] which is normally located near a [Blacksmith] or [Evolving] NPC. While in the [Anvil] menu there will be two types of options [Enhance] or [Enhance Transfer] we'll start off by talking about [Enhancing]. When you're in the [Enhance] menu, you'll be able to place your desired enhanceable item and be prompted to add a whetstone to use as enhancing material. There are 5 grades of whetstones [Inferior Whetstone], [Progressive Whetstone], [Whetstone III], [Whetstone IV], and [Whetstone V]. Depending on the type of [Whetstone] you use, the [Enhancer Bonus] will increase a certain amount. [Enhancer Bonus] will increase your chance off successfuly increasing the enhancement level of a item. Certain [Whetstone(s)] will lose efficentcy over the [Enhancement Levels] and you'll need to use more powerful ones to increase you're [Enhancer bonus]
+
+[Recommended Usage]
+
+[Inferior Whetstone]: Enhancement Level +1 ~ +9-13 (Loses [Enhancer Bonus] after this point)
+[Progressive Whetstone]: +11 ~ 19 (Decreased [Enhancer Bonus] but still adds a little bit per [Enhancement] attempt) 
+[Whetstone III]: +1 ~ +19 (Recommended to use until [Enhancement Bonus] of 3~5% and revert to [Progressive Whetstones])
+[Whetstone IV]: +1 ~ +19 (Recommended to use until [Enhancement Bonus] of 3~5% and revert to [Progressive Whetstones])
+[Whetstone V]: +1 ~ +19 (Recommended to use until [Enhancement Bonus] of 3~5% and revert to [Progressive Whetstones])
+
+As you're [Enhancing] the [Stability] of an item will decrease leaving it unable to be [Enhanced] any further. You can repair the [Stability] of a item by using [Fix-it Hammer(s)] there are a variety of these which will be listed down below.
+
+[Stabilizing Hammer]: Repairs [Stability] by 3~7 (Random amount between these values.)
+[Fixit-10 Hammer]: Repairs [Stability] by 10
+[Fixit-25 Hammer]: Repairs [Stability] by 25
+[Fixit-50 Hammer]: Repairs [Stability] by 50
+[Fixit-100 Hammer]: Repairs [Stability] by 100
+[Fixit-250 Hammer]: Repairs [Stability] to the maximmum amount.
+
+While using these items you can continuously [Enhance] without having to leave the menu. Simply [Right-Click] the item in your inventory while [Enhancing] and repair the equipment as needed. You can also set the amount of times you continously enhance the item (MAX. 20 times) as well as cancel on success by ticking the box towards the bottom. Moving over to the [Enhancement Transfer] menu, you're able to add an item that has already been [Enhanced] to be discarded to transfer its enhancement level over. This level will be one level lower than the previous item unless you use [Kred] to save the level. Note: That [Enhancement Transfering] will destroy the item in exchange for transfering the enhancement level. [Enhancement Transfering] will usually cost an amount of [Gold Kritium Crystal], [Chaos Kritium Crystal], [Gold] and [Kred] depending if you want to save a level. If you are trying to [Enhance Transfer] the item you're trying to transfer over will have to be one tier level higher than the item you're using as transfer material. The item will also have to share the same equipment slot as the transfer material Ex. Weapon to Wep not Wep to Accessories, Armor, ect.
+----------
+! Arena
+------
+[Arena] is the Boss-battle system found within Kritika where players go to test their skills against powerful foes. In this mode you'll climb the [Arena Tower] fighting each boss one by one as you progress these bosses will get increasingly harder so be prepared. There are a max of 70 floors with each floor giving a [First Completion] reward. 
+
+FL 1~10: Daily Clear: x10 Bronze Medals  // First Clear: x10 Bronze Medals
+FL 10: Additional First Clear Reward: Inferior Kagerfeld Badge x20
+FL 11~20: Daily Clear x20 Bronze Medals // First Clear: x20 Bronze Medals
+FL 20: Additional First Clear Reward: Inferior Kagerfeld Badge x50
+FL 21~30: Daily Clear: x30 Bronze Medals // First Clear: x30 Bronze Medals
+FL 30: Additional First Clear Reward: Inferior Kagerfeld Badge x80, Silver Champion Medal
+FL 31~40: Daily Clear: x40 Bronze Medals // First Clear x40 Bronze Medals
+FL 40: Additional First Clear Reward: Inferior Kagerfeld badge x100, Silver Champion Medal
+FL 41~50: Daily Clear: x50 Bronze Medals // First Clear: x50 Bronze Medals
+FL 47: Additional First Clear Reward: Silver Champion Medal
+FL 50: Additional First Clear Reward: Inferior Kagerfeld Badge x100, Gold Champion Medal
+FL 51~60: Daily Clear: x60 Bronze Medals // First Clear: x60 Bronze Medals
+FL 55: Additional First Clear Reward: Silver Champion Medal
+FL 57: Additional First Clear Reward: Gold Champion Medal
+FL 60: Additional First Clear Reward: Inferior Kagerfeld Badge x150, Token of Torment
+FL 61~69: Daily Clear: x70 Bronze Medals // First Clear: x70 Bronze Medals
+FL 65: Additional First Clear Reward: Silver Champion Medal
+FL 68: Additional First Clear Reward: Gold Champion Medal
+FL 70: Additional First Clear Reward: Inferior Kagerfeld Badge 180, Token of Torment
+
+If you can't beat the floor you'll gain a [Daily Entrance] reward even if you don't complete the floor. You'll be able to attempt the [Arena] 100 times per day [Arena] also has a gold fee per floor. But, you'll only have to pay on entry to the [Arena]. [Scar] the [Arena] NPC will provide a plethora of items that you can exchange for types of medals earned from [Arena]. Most of the items in [Scar's] shop have limits as well as date limits that you can buy per season, These limits will reset after the season is over. Here are some of the notable buys recommended on picking up daily or each season.
+
+Ordeal Scroll Box: x30 Bronze Medals [x1 Daily]
+Ordeal Fixit Box: x30 Bronze Medals [x1 Daily]
+Box for the Daring: x30 Bronze Medal [x1 Daily]
+Badge of Spirit Loot Box: x30 Bronze Medal [x1 Daily]
+Soul Gem Box V: x1 Silver Medal, [x1 Every 30 days]
+Soul Gem Box VI: x6 Silver Medal, [x1 Every 60 days]
+Soul Gem Box VII: x9 Silver Medal [x1 Every 90 days]
+Advance Conqueror Emblem: x1 Gold Medal [x1 Every year]
+Legendary Charm Selector: x3 Gold Medal, [x1 Every year]
+Awesome Arena Charm V Selector: x3 Gold Medal [x1 Every year]
+Conqueror of Sixtieth Floor Title: x1 Token of Torment, [x1 Every year]
+Stabilizing Hammer: x10 Bronze Medal [x1 Daily]
+Fixit-100 Hammer: x100 Bronze Medal [x2 Every 35 Days]
+Legendary Charm Selector: x3 Gold Medal, [x1 Every year]
+Awesome Arena Charm V Selector:  x3 Gold Medal [x1 Every year]
+[Arena] Enhancing Booster Scroll III (15 days): x300 Bronze Medal [x3 Every 35 Days]
+[Reward] Mysterious Key: x1 Token of Torment [x1 Every 35 Days]
+[Reward] Enigmatic Emblem Box: x1 Gold Medal [x1 Every 35 Days]
+Kred 50: x100 [x1 Every 35 Days and Per Account]
+Kred 100: x200 [x1 Every 35 Days and Per Account]
+Kred 150: x1 Silver Medal [x1 Every 35 Days and Per Account]
+Kred 200: x1 Silver Medal [x1 Every 35 Days and Per Account]
+Kred 500: x1 Gold Medal [x1 Every 35 Days and Per Account]
+
+You can also pick up some of the crafting material, Reappraisal/Recalculation Scrolls, or Whetstones if you feel like you have sufficient medals and are in need of the materials.
+
+[Arena] seasons will only last 35 days and you'll be ranked on the time and highest floor cleared by your character. This information is updated daily and can be viewed by checking the [Helm] icon above the skill bar. [Ranking Rewards] are also given out at the end of season to players who have ranked in certain placement positions. 
+
+Rank #1: Number 1 Arena Reward Costume, Bronze Champion Medal 1,500, Arena Champion Title
+Rank #2: Number 2 Arena Reward Costume, Bronze Champion Medal 1,250, Arena Captain Title
+Rank #3 ~ 10th:  Top Ten Arena Reward Costume, Bronze Champion Medal 1,000, Arena Knight Title
+Rank 11th ~ Top 10%: Arena Costume Reward (Top 10%), Bronze Champion Medal 700, Arena Centurion Title
+Top 11% ~ 30%:  Arena Costume Reward (Top 30%), Bronze Champion Medal 500, Arena Guardian Title
+Top 31% ~ 50%: Arena Costume Reward (Top 50%), Bronze Champion Medal 400, Arena Fighter Title
+Top 51% ~ 70%: Arena Costume Reward (Top 70%), Bronze Champion Medal 250
+Top 70% ~ 100%: Arena Costume Reward (Top 71%-100%) Bronze Champion Medal 150
+
+The costume wings give a very nice stat boost depeding on the rank that you've recived so aim high on those rankings!
+---------
+Pets
+-----
+[Pet(s)] are the companions that will accompany you on your journeys. [Pet(s)] have auto looting and special skills that are different with every pet. There exist 5 raritys of pet [Inferior], [Average], [Superior], [Rare] and, [Legendary]. Pets can be obtained through [Events], [Action Zone(s)], [EMP Store], or through [Tokina's Pet Lab]. Mentioning the [Pet Lab] you'll be able to find this function through [Tokina] while here you can discard [Pet(s)] that will be turned into [Pet Coin(s)]. [Pet Coin(s)] can be used at the [Coin Toss] through [Tokina] this function will allow you to toss 10 [Pet Coin(s)] in exchange for a random new [Pet] or [Pet] related item. Collecting [Pet(s)] also has its perks. While obtaining pets they will start to be added to your [Pet Collection] [Note: [Pet(s)] will only be added into the [Pet Collection] if they are equipped.] This function gives you certain stat effects depending on the [Pet(s)] you've collected. The [Pet Collection] has different sets of [Pet(s)] with their own [Collection Bonus] they provide to you for having them all. There are quite a few bonuses so get to collecting those [Pet(s)]! The first pet you'll most likely obtain will be through [Alandra] when you accept her daily quest. To access the [Pet] menu access your inventory (Default Key [I]) and select the [Pet] tab while here you have a overview of any pets currently equipped. Here you'll find your [Pet Gem(s)], [Pet Details] and [Pet Name] equipped. 
+
+While on this subject lets talk about changing your pets name. To do this you must simply obtain a [Pet Name Change Coupon] this item is purchaseable through the [EMP Store] or obtainable through [Sealed Mysteriouser Box(es)]. This new name can be anything up to 12 characters long so get creative with your pet name! By pressing the [Pet Details] button located in your [Pet] tab you're able to view the skill details of your pet and any of the effects that are bound to it. 
+
+Jumping to [Pet Evolution]; this function allows you you further upgrade your pet into a new form that will upgrade it's skill ability and most times add a stat to the pet. While in this menu you'll be able to preview your current pet as well as the [Evolution] out come of your pet. this will display the new skills your pet will gain as well as the materials needed to evolve the pet underneath the display. You can view a side memo of the materials needed by ticking the [Materials Memo] box at the far-right of the menu. You can [Instant Evolve] your pet by obtaining a [Pet Evolution Capsule] from [Tokina] through her [Pet Lab]. Using this method by-passes any materials required for the pet and will [Evolve] your pet straight away. 
+
+[Glittering Pet Gem Box(es)] can be baught through the [EMP Store] or through the [Auction House] these gems are equippable to your pet and will boost your overall stats depending on the stats of the gem. The rarity of the pet will also have a part to play in the effectiveness of the [Pet Gem(s)] increasing it by certain amounts depending on the grade
+
+[Rare] +20%
+[Legendary] +30%
+
+There are three types of pet gems [Amethyst], [Peridot], and [Aquamarine] these have five raritys each getting stronger and better stats each grade. the basic stats of each gem will be listed down below.
+
+[Gem Types]
+-[Aquamarine]: Combat Rating related stats.
+-[Peridot]: Survival Rating related stats.
+-[Amethyst]: Prime Attribute related stats.
+
+By clicking [CTRL+Right Click] you can bring up the [Improve Gem] menu. In this menu you can sacrifice a gem into another gem to inherit the stats of the discarded gem. These stats will last a certain amount of time depending on the [Pet Gem] rarity.
+
+[Pet Gem Improve Duration]
+[Inferior]: 12 Hours
+[Average]: 1 Day
+[Superior]: 3 Days
+[Rare]: 15 Days
+[Legendary]: 30 Days
+
+You can overwrite the previous gem by sacrificing another gem in it's place. The other function in this menu is [Extend Duration] in this function you can sacrifice different grade gems to extend the addition stats inherited on to the gem. Pet gems can also be evolved through a [Evolution Specialist] NPC, While here you can select gems you would like to [Evolve]. These evolutions will cost a certain amount of Pet gem shard and an amount of the same type gem you're tying to evolve. [Pet gem shard] can be obtained by salvaging unwanted gems. "Want to learn more about [Pet gems]? Check out [EME Staff] "Smorecerors' [Pet Gem Guide] on the fourms."
+-------------------
+! Fractured Memories
+-------------------
+[Fractured Memories] is a [Ranked] function found within Kritika Online. To get started talk to [Maril] at the [Fractured Memories Gate] while talking to her, she'll have a few options but we'll start by explaining [Fractured Memories] more in-depth first. This mode consists of randomly generated maps that host different level monsters depending on the level of the floor. There currently exist 190 floors inside [Fractured Memories]. The level of the monsters will match the floor you're attempting (Ex. Floor 130: Monster Lv.130). While inside you'll be timed through out your run. These times are ranked on the [Fractured Memories Ranking Board] which can be viewed through [Maril] or the [Helm] icon located above your skillbar. Monsters will drop [Memory Fragments] that you'll need to collect to fill the [Boss Counter] You'll need to fill this bar and clear the end boss to be able to progress to the next batch of floors. If you fail to clear in time you'll be stuck on the floor until you can pass under the time limit. Clearing these floors will grant you 3 ability points and Failing will only grant you 1 point. These can be spent on [Fractured Memories] passive abilitys that will benifit you greatly. There are three categories of skills [Offensive], [Defensive], and [Utility] abilitys. There will be a list of 3 recommended from each category down below but there are well over 3 in each category.
+
+[Offensive]                                                   [Defensive]                                                       [Utility]
+-Damage Against Fey/Humans (MAX. Lv.190) [Top Priority]       -Reduces Damage from Melee Attacks (MAX. Lv.190)                  -Increases Item Drop Rate (MAX. Lv.190)
+-Damage when attacking from behind. (MAX. Lv.190)             -Reduces Damage from Bosses (MAX. Lv.190)                         -Increases Danger Zone EXP (MAX. Lv.190)
+-Damage against enemy with [Element] Debuff (MAX. Lv.190)     -Increase Movement Speed when no enemys are around (MAX. Lv.190)  -Reduces Cooldown of skills (MAX. Lv.190)
+
+As you get to leveling your abilitys further the success rate will start to fall as they get higher. Eventually you'll have to climb to higher floors to be able to level them with a higher success rate. Lastly running through [Fractured Memories] constantly won't decrease your [Rest Points] [RP] or effect the amount of drops that you obtain through [Fractured Memories] it will always be the same amount no matter if you're in [Purple] or [Green] [RP]. Moving on to [Maril] and [Lilis'] shops respectivly, you'll be able to receive some goodies from them using [Memory Page(s)] and [Space-time Hexagram(s)]. In [Lilis'] shop you can exchange [Space-Time Hexagram(s)] for [Equipment] and [Strange Master Soul Gem Box(es)] her shop is very useful for people who are making alternate characters or even a first character that has access to [Space-Time Hexagram(s)]. [Lilis] can also combine [Tarnished Hexagram(s)] to make [Space-Time Hexagram(s)] same goes for [Space-Time Hexagram(s)] to [Memory Page(s)]. In [Maril's] shop she has items that can be exchanged for [Memory Page(s)] these can be obtained through [Fractured Memories Ranking Rewards] or crafted through [Lilis] using 100 [Space-Time Hexagram(s)] noteable buys from her shop will be listed down below.
+
+[Maril's Shop]                                                                                
+
+-Gem Box VI [1 Per Month]                                                                                    
+-[Reward] Enigmatic Emblem Box [1 per 14 days]
+-[Reward] Mysterious Key [1 Per 14 Days]
+-Fixit-100 Hammer (Bound) [1 per 14 Days] 
+-Whetstone IV Box (7 Day) [1 Per 14 Days]
+-Absolute Noble Costume Selector
+-Absolute Dark Costume Selector
+
+There also exist ranking rewards for [Fractured Memories] that are given out every two weeks. Rankings are class-based and are ranked against everyone who has entered [Fractured Memories] in the last two weeks. You will receive [Memory Page(s)] plus some other neat rewards depending on your ranking for the season. I'll list the full reward list down below.
+
+Rank #1                                 Rank #2                    Rank #3                    Rank 4th~10th                Rank 11th~10%                 Rank 11%~20%                Rank 21%~50%                 Rank 51%~100% 
+-[Reward] Champion's Honorable Box      -x8 [Memory Page(s)]       -x7 [Memory Page(s)]       -x5 [Memory Page(s)]         -x4 [Memory Page(s)]          -x3 [Memory Page(s)]        -x2 [Memory Page(s)]         -x1 [Memory Page(s)]
+Contents: x10 [Memory Page(s)])         -x1 [Gem Box V]            -x1 [Gem Box V]            -x3 [Gem Box IV]             -x1 [Gem Box IV]              -x3 [Gem Box III]           -x1 [Gem Box III]            -x1 [Soul Gem Box III]     
+-[Violet Flame Vortex]                  -x400 [Kred]               -x300 [Kred]               -x250 [Kred]                 -x120 [Kred]                                                                         
+-x1 [Gem Box V]                         -[FM Finalist Title]       -[FM Runner Up Title]      -[FM Top 10 Title]           -[FM Top 10 Percent Title]                                
+-x500 [Kred]                                                                                                            
+-[FM Champion Title]                                                                   
+--------------------
+Devotion
+-------------------
+[Devotion] is a system within Kritika that will provide you with bonus stats for making multiple characters. To start select the [Devotion] tab from your [Inventory] to bring up the [Devotion] menu. This system has a maximum of five [Devotion] tiers you can start leveling this after any character acheives Lv.40. After this point your [Devotion] progress bar will slowly level up as you level your character. This function is very handy when you want to make other characters but feel leveling takes a bit too long.
+------------------
+Delivery
+-------
+The [Delivery] tab is where you'll obtain items received from the [Attendance Calender], [Daily Deals], [Events], [EMP Store] or codes redeemed through the [En Masse Launcher]. To access this open your [Inventory] (Default Key [I]) and select the [Delivery] tab. Here you'll be able to browse through the different tabes in your [Delivery Box] as well. If you are sent something or purchase an item from the [EMP Store] you will be notifyed a notification that appears on your screen. 
+------------
+Recalculation/Reappraising
+---------------
+[Recalculating]/[Reappraising] can be done by obtaining [Recalculation Scroll(s)] or [Reappraisal Scroll(s) from various [Merchants] or [Danger Zone(s)]. To start [Recalculating] or [Reappraising] Right-click either of the scroll items to bring up the [Scroll Cursor Icon] while in this, You can select any equipment peice you'd like to [Recalculate]or [Reappraise]. Starting out with [Reappraising], this will bring up the [Item Recalculation] menu while here you have an overview of the currently applyed to each [Appraised] stat on your equipment peice. You can simply recalculate the values of these by pressing the [Recalculate Item] button or by pressing [Enter]. This will change all of the values of the currently [Appraised] stats on the equipment. If you would like to keep a value of any of the stats, You can select the [Lock] icon of any of the the stats you'd like to keep values of. Keep in mind doing this will double the amount of [Recalculation Scroll(s)] you will be needed to provide for each [Recalculation] The max values of each stat is displayed at the right side of each stat bar. Once you are comfterable with the changes select the [Recalculation Changes] button to apply the changes. [Note: The changes will NOT be applied if you don't apply the changes.]  [Reappraising] is very similar to [Recalculating] items instead you are able to change the stat rather than thee values of the stats. While in the [Reappraisal] menu, hovering over the [Magnifying Glass] icon will tell you all of the stats that are able to be added to each equipment part. Down below is the recommended stats for each part. Priority will be listed in numerical order from which should be obtained first. (These can be changed up depending on your prefered playstyle.)
+
+[Helm]: #1 [Critical] 2. [HP]/[Accuracy] 3. [Defense] 4. [Damage Reduction] 5. [Element Bonus]
+[Chest]: #1[Critical Damage] 2. [Increased Damage To Bosses] 3. [Bonus Critical Damage to Bosses] 4. [HP]/[Damage Reduction] 5. [Element Bonus]
+[Legs]: #1 [Critical Damage] 2. [Increased Damage To Bosses] 3. [Bonus Critical Damage to Bosses] 4. [HP]/[Damage Reduction] 5. [Element Bonus]
+[Gloves]: #1 [Attack Speed] 2. [HP] 3. [Defense ]  4. [Element Bonus] 5. [Damage Reduction Against Bosses]
+[Feet]: #1 [HP] 2. [Defense] 3. [Movement Speed] 4. [Element Bonus] 5. [Damage Reduction Against Bosses]
+[Ring]: #1 [Increased Damage To Bosses] 2. [Critical Damage] 3. [Bonus Damage] 4. [Attack Speed] 5. [Attack Power]
+[Necklace]: #1 [Increased Damage To Bosses] 2. [Critical Damage] 3. [Bonus Damage] 4. [Critical] 5. [Attack Power]
+[Earrings]: #1 [Increased Damage To Bosses] 2. [Attack Speed] 3. [Critical Damage] 4. [Bonus Damage] 5. [Critical]
+[Weapon]: #1 [Increased Damage To Bosses] 2. [Critical Damage] 3. [Critical] 4. [Attack Speed] 5. [Bonus Damage] 
+-----------------------------------------------
+Charms
+------------------------
+! Daily Danger Zones
+-------------------
+Auction House
+-------------------
+Options
+------
+Miscellanous
+------------
